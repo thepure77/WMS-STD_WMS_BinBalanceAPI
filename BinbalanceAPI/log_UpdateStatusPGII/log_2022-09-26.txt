@@ -1,0 +1,6 @@
+2022-09-26-222425  -- Start ex Rollback An exception was thrown while attempting to evaluate a LINQ query parameter expression. To show additional information call EnableSensitiveDataLogging() when overriding DbContext.OnConfiguring.
+2022-09-26-222516  -- Start ex Rollback Object reference not set to an instance of an object.
+2022-09-26-222742  -- Start ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2022-09-26-222742  -- Start ex Rollback An error occurred while updating the entries. See the inner exception for details.
+2022-09-26-223155  -- Start ex Rollback An exception was thrown while attempting to evaluate a LINQ query parameter expression. To show additional information call EnableSensitiveDataLogging() when overriding DbContext.OnConfiguring.
+2022-09-26-223521  -- Start ex Rollback An exception was thrown while attempting to evaluate a LINQ query parameter expression. To show additional information call EnableSensitiveDataLogging() when overriding DbContext.OnConfiguring.

@@ -1,0 +1,6 @@
+2021-02-11-091152  -- Start ex Rollback Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2021-02-11-091424  -- Start ex Rollback Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2021-02-11-091635  -- Start ex Rollback Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2021-02-11-100554  -- Start ex Rollback Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2021-02-11-100705  -- Start ex Rollback Unexpected character encountered while parsing value: {. Path '', line 1, position 1.
+2021-02-11-100808  -- Start ex Rollback Unexpected character encountered while parsing value: <. Path '', line 1, position 1.
